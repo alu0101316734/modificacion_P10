@@ -1,5 +1,5 @@
 {
-  "exclude": ["./tests", "./node_modules", "./dist"],
+  "exclude": ["test", "./node_modules", "./dist"],
   "include": ["./src"],
   "compilerOptions": {
     "target": "es2022",
